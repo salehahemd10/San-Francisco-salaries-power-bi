@@ -1,5 +1,5 @@
 # San-Francisco-salaries-power-bi 
-Power BI Salary Dashboard
+## Power BI Salary Dashboard
 
 This Power BI dashboard provides a comprehensive overview of salary distributions, including base salaries, overtime payments, and other salary components. Key features include:
 
